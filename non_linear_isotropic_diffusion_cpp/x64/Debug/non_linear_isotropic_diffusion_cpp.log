@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\USER\source\repos\non_linear_isotropic_diffusion_cpp\Source.cpp(51,73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  non_linear_isotropic_diffusion_cpp.vcxproj -> C:\Users\USER\source\repos\non_linear_isotropic_diffusion_cpp\x64\Debug\non_linear_isotropic_diffusion_cpp.exe
